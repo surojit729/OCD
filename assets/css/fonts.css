@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Cambon';
+    src: url('../fonts/Cambon-Regular.eot');
+    src: local('Cambon Regular'), local('Cambon-Regular'),
+        url('../fonts/Cambon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cambon-Regular.woff2') format('woff2'),
+        url('../fonts/Cambon-Regular.woff') format('woff'),
+        url('../fonts/Cambon-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cambon';
+    src: url('../fonts/Cambon-Medium.eot');
+    src: local('Cambon Medium'), local('Cambon-Medium'),
+        url('../fonts/Cambon-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Cambon-Medium.woff2') format('woff2'),
+        url('../fonts/Cambon-Medium.woff') format('woff'),
+        url('../fonts/Cambon-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
