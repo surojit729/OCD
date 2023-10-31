@@ -974,7 +974,7 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .footer-top-row .footer-widget .footer-social li {
-    display: inline-block;
+    display: block;
     margin-bottom: 10px;
 }
 
